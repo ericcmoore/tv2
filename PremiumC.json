@@ -1,5 +1,4 @@
-{
-  "Premiums": [
+ [
     {
       "tvName": "AKWAABA",
       "tvUrl": "http://185.243.7.13:80/play/live.php?mac\u003d00:1A:79:45:5E:9A\u0026stream\u003d554967\u0026extension\u003dts\u0026play_token\u003dalOsxs80wh",
@@ -3761,4 +3760,3 @@
       "tvRegion": ""
     }
   ]
-}
