@@ -7,8 +7,8 @@
     "appid": "sparktv1",
     "oldVersion": "1.1.0",
     "newVersion": "1.1.1",
-    "newTitle": "Update App",
-    "appMsg": " New Version Update required, please update this app",
+    "title": "New Update Found",
+    "msg": "App update Required, please click on ",
     "updateLink": "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",
     "updateAlternativeLink": "https://sparkupdatelink"
   }
