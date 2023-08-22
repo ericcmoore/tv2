@@ -7,8 +7,8 @@
     "appid": "sparktv1",
     "oldVersion": "1.1.0",
     "newVersion": "1.1.1",
-    "newTitle": "1.1.1",
-    "appMsg": "1.1.1",
+    "newTitle": "Update App",
+    "appMsg": " New Version Update required, please update this app",
     "updateLink": "https://sparkupdatelink",
     "updateAlternativeLink": "https://sparkupdatelink"
   }
