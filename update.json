@@ -4,6 +4,7 @@
     "cancelable": "true",
     "appBlocked": "false",
     "appName": "Spark TV",
+    "appid": "sparktv1",
     "oldVersion": "1.1.0",
     "newVersion": "1.1.1",
     "newTitle": "1.1.1",
