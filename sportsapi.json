@@ -1,0 +1,8 @@
+{
+  "sportsapi": [
+    {
+      "tennis_api": "",
+      "football_api": "",
+      "general_sports_api": "https://opera.livescore.mobi"
+    }
+  ]
