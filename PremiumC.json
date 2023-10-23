@@ -2467,6 +2467,26 @@
     "Pack-Premium": "true"
   },
   {
+    "tvName": "SuperSport Max",
+    "tvUrl": "http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/6598",
+    "tvThumb": "",
+    "tvCategory": "SPORTS",
+    "tvIsPaid": "true",
+    "tvStatus": "",
+    "tvMsg": "",
+    "tvEPG": "",
+    "tvLogo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png",
+    "tvDescription": "SuperSport Max",
+    "tvId": "SS525Max",
+    "tvNo": "23",
+    "tvCountry": "United State",
+    "tvRegion": "America",
+    "Pack-Basic": "false",
+    "Pack-Standard": "true",
+    "Pack-Super": "true",
+    "Pack-Premium": "true"
+  },
+  {
     "tvName": "SuperSport La Liga ",
     "tvUrl": "http://humiptv.live:8080/live/653176410987/643175282541/171957.ts",
     "tvThumb": "",
