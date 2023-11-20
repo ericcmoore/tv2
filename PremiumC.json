@@ -1,23 +1,4 @@
 {
-    "tvName": "Upgrade App, To Watch",
-    "tvUrl": "",
-    "tvThumb": "",
-    "tvCategory": "VOD",
-    "tvSubCat": "BABY NUMBER RHYMES",
-    "tvIsPaid": "true",
-    "tvStatus": "Alive",
-    "tvVisibility": "true",
-    "tvMsg": "",
-    "tvEPG": "",
-    "tvLogo": "",
-    "tvDescription": "",
-    "tvId": "561VOD=BABYTOOT",
-    "tvNo": "411",
-    "tvCountry": "United State",
-    "tvRegion": "America",
-    "Pack-Basic": "false",
-    "Pack-Standard": "true",
-    "Pack-Super": "true",
-    "Pack-Premium": "true"
+    "tvName": "Upgrade App, To Watch"
   }
 ]
